@@ -14,3 +14,9 @@ from calculadora import somar, dividir
 somar(2, 3)    # 5
 dividir(10, 4) # 2.5
 ```
+
+## Testes
+
+```bash
+python -m unittest -v
+```
